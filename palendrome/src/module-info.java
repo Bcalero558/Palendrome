@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kuma
+ *
+ */
+module palendrome {
+}
